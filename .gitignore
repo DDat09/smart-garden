@@ -1,0 +1,9 @@
+cat > .gitignore << 'EOF'
+firebase_key.json
+*.pt
+*.pth
+__pycache__/
+.env
+.DS_Store
+*.pyc
+EOF
