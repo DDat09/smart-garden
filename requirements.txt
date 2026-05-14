@@ -1,9 +1,8 @@
+setuptools
+wheel
 Flask==2.3.0
 firebase-admin==6.2.0
 ultralytics
-opencv-python==4.8.0.76
-numpy==1.24.0
-Werkzeug==2.3.0
-python-dotenv==1.0.0
-setuptools
-wheel
+opencv-python-headless
+numpy==1.24.3
+flask-cors
